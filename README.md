@@ -24,3 +24,7 @@ Query for creating Employee Table
 -	Listing all employees
 -	Pagination
 -	Search based on Employee Name 
+
+
+
+Developed In Codegniter
