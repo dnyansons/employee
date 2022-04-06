@@ -40,3 +40,7 @@ screen 2 ADD Employee
 screem 3 Edit Employee 
 ![image](https://user-images.githubusercontent.com/16588526/161917545-1adb5027-e58e-4044-8a69-44480c150b1e.png)
 
+screen 4 Validation
+![image](https://user-images.githubusercontent.com/16588526/161917770-77740d31-44f8-4f9e-b48f-afccc17ae179.png)
+
+
