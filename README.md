@@ -28,3 +28,15 @@ Query for creating Employee Table
 
 
 Developed In Codegniter
+
+http://localhost/employee/employee/
+
+Screen 1  Employee List
+![image](https://user-images.githubusercontent.com/16588526/161917327-aa7d9c84-2d58-4e26-a418-64feb9e79c8e.png)
+
+screen 2 ADD Employee
+![image](https://user-images.githubusercontent.com/16588526/161917477-74c0eb50-650c-4808-aeef-edf4d58a29f2.png)
+
+screem 3 Edit Employee 
+![image](https://user-images.githubusercontent.com/16588526/161917545-1adb5027-e58e-4044-8a69-44480c150b1e.png)
+
